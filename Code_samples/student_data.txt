@@ -1,0 +1,6 @@
+Last_name   First_name  ID  P1  P2  P3  T1  T2  T3
+Obama       Barack     ABC123 89 92  83  86  95  84
+Bush        George     ZYX987 82 94  96  82  79  78
+Clinton     William    9SC104 54 99  83  82  44  97
+Bush        George     ZYY987 44 99  99  82  94  26
+Reagan      Ronald     147MGG 98 97  54  83  92  96
